@@ -1,0 +1,170 @@
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Quantum hello.exe
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Quantum hello.deps.json
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Quantum hello.runtimeconfig.json
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Quantum hello.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Quantum hello.pdb
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Azure.Core.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Azure.Identity.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Azure.Quantum.Jobs.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Azure.Storage.Common.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Bond.Attributes.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Bond.IO.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Bond.Reflection.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Bond.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Bond.JSON.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\FParsec.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\FParsecCS.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\FSharp.Core.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Humanizer.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Markdig.Signed.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Azure.Quantum.Client.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.BondSchemas.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QsCompilationManager.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QsCompiler.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QsCore.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QsDataStructures.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QsDocumentationParser.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QsOptimizations.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QsSyntaxProcessor.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QsTextProcessor.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QsTransformations.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.CSharpGeneration.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.RoslynWrapper.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.EntryPointDriver.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QSharp.Core.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.QSharp.Foundation.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.Runtime.Core.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.Simulation.Common.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.Simulators.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.Standard.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.Quantum.Targets.Interfaces.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.VisualStudio.LanguageServer.Protocol.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\NumSharp.Core.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.CodeDom.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.CommandLine.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.Memory.Data.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\System.Text.Json.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\YamlDotNet.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\cs\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\de\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\es\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\fr\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\it\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ja\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ko\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pl\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\ru\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\tr\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\linux-x64\native\Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\linux-x64\native\Microsoft.Quantum.QdkSimRs.Runtime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\linux-x64\native\libMicrosoft.Quantum.Simulator.Runtime.so
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\linux-x64\native\libMicrosoft.Quantum.SparseSimulator.Runtime.so
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\linux-x64\native\libomp.so
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\osx-x64\native\Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\osx-x64\native\Microsoft.Quantum.QdkSimRs.Runtime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\osx-x64\native\libMicrosoft.Quantum.Simulator.Runtime.dylib
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\osx-x64\native\libMicrosoft.Quantum.SparseSimulator.Runtime.dylib
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\osx-x64\native\libomp.dylib
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.QdkSimRs.Runtime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.SparseSimulator.Runtime.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\win-x64\native\libomp140.x86_64.dll
+E:\QUANTUM COMPUTING\Quantum hello\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\Quantum hello.csproj.AssemblyReference.cache
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\Quantum hello.csproj.CopyComplete
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\Quantum hello.GeneratedMSBuildEditorConfig.editorconfig
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\Quantum hello.AssemblyInfoInputs.cache
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\Quantum hello.AssemblyInfo.cs
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\Quantum hello.csproj.CoreCompileInputs.cache
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\Quantum hello.dll
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\refint\Quantum hello.dll
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\Quantum hello.pdb
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\Quantum hello.genruntimeconfig.cache
+E:\QUANTUM COMPUTING\Quantum hello\obj\Debug\net6.0\ref\Quantum hello.dll
